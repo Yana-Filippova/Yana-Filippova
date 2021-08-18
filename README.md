@@ -1,6 +1,8 @@
 ### Hi there👋, my name's Yana and I'm a Full Stack Developer.
 Web-development is an incredibly creative discipline and I'm passionate about everything related to it🌱.
 Currently I'm finalizing my learning pathway that will allow me to become more technically proficient.
+
+**Some of my Github Stats:**
 <!--
 **Yana-Filippova/Yana-Filippova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
