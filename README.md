@@ -33,8 +33,9 @@ Would you like to know more about me? If yes, then please check out my portfolio
 </a>
 
 ## &#128232; Links to my social media accounts 
-<a href="mailto:yanafilippova20@gmail.com"><img src="https://img.shields.io/badge/yanafilippova@gmail.com-D14848?&logo=gmail&logoColor=2bbc8a" /></a>  <a href="https://github.com/Yana-Filippova"><img src="https://img.shields.io/badge/Yana-Filippova-100000?&logo=github&logoColor=white" /></a> 
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badg&logo=linkedin&logoColor=white"/>
+
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/addname/)
+[![Github Badge](https://img.shields.io/badge/Github-Profile-informational?style=flat&logo=github&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/Yana-Filippova/)
 
 ## &#127937; Profile views
 ![Profile views](https://komarev.com/ghpvc/?username=Yana-Filippova&color=2bbc8a)
