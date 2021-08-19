@@ -33,8 +33,8 @@ Would you like to know more about me? If yes, then please check out my portfolio
 </a>
 
 ## &#128232; Links to my social media accounts 
-<p><a href="https://www.linkedin.com/in/.../" rel="noopener noreferrer" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a> <a href="https://t.me/IanaFilippova" rel="noopener noreferrer" target="_blank"><img alt="Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /> <a href="mailto:yanafilippova20@gmail.com" rel="noopener noreferrer" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a></p>
-
+<p><a href="https://www.linkedin.com/in/.../" rel="noopener noreferrer" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a> <a href="https://t.me/IanaFilippova" rel="noopener noreferrer" target="_blank"><img alt="Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /> <a href="mailto:yanafilippova20@gmail.com" rel="noopener noreferrer" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>  <a href="https://github.com/Yana-Filippova" rel="noopener noreferrer" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a></p>
+  
 ## &#127937; Profile views
 ![Profile views](https://komarev.com/ghpvc/?username=Yana-Filippova&color=2bbc8a)
 
