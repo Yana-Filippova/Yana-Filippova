@@ -26,7 +26,7 @@ Would you like to know more about me? If yes, then please check out my portfolio
 ## &#x1f4c8; GitHub Stats
 
 <a href="https://github.com/Yana-Filippova/Yana-Filippova">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yana-Filippova&title_color=ffffff&show_icons=true&text_color=3eaf76&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yana-Filippova&title_color=ffffff&show_icons=true&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
 </a>
 <a href="https://github.com/Yana-Filippova/Yana-Filippova">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Yana-Filippova&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=3eaf76&bg_color=1d1f21" alt="Yana's GitHub Stats" />
