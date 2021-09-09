@@ -1,9 +1,10 @@
 ## Hi guys👋! My name's Yana 👧 and I'm a Full Stack Developer.                
 <i>Web-development is an incredibly creative discipline and I'm passionate about everything related to it 💻 .
-Would you like to know more about me? If yes, then please check out my portfolio and contact me via available media links 🚩 listed below:<i/> 
+Would you like to know more about me? If yes, then please check out my portfolio and contact me via available media links 🚩 listed below:</i> 
 
 <a href="mailto:yanafilippova20@gmail.com" rel="noopener noreferrer" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?&logo=gmail&logoColor=white" /> </a><a href="https://www.linkedin.com/in/.../" rel="noopener noreferrer" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-0077B5?&logo=linkedin&logoColor=white" /></a> <a href="https://t.me/IanaFilippova" rel="noopener noreferrer" target="_blank"><img alt="Telegram" src="https://img.shields.io/badge/Telegram-0088CC?logo=telegram&logoColor=white" /></a> <a href="https://github.com/Yana-Filippova" rel="noopener noreferrer" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-333?logo=github&logoColor=white" /></a>  
 
+  
 ## 🔧 Technologies & Tools
 
 ![](https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=htm&logoColor=white&color=3eaf76)
