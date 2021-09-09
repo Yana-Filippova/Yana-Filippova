@@ -36,7 +36,3 @@ Would you like to know more about me? If yes, then please check out my portfolio
 
 ## &#127937; Profile views counter
 ![Profile views](https://komarev.com/ghpvc/?username=Yana-Filippova&color=3eaf76)
-
-
-
-
