@@ -1,4 +1,4 @@
-## Hi guys👋, welcome to my page! 
+## Hi guys👋, welcome to my page!                  
 <b><i>My name's Yana and I'm a Full Stack Developer</i></b>. 
 
 Web-development is an incredibly creative discipline and I'm passionate about everything related to it 💻 .
