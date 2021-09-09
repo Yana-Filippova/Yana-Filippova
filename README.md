@@ -1,5 +1,5 @@
 ## Hi guys👋, welcome to my page!
-<b>My name's Yana and I'm a Full Stack Developer</b>.
+<b><i>My name's Yana and I'm a Full Stack Developer</i></b>. 
 
 Web-development is an incredibly creative discipline and I'm passionate about everything related to it 💻.
 Would you like to know more about me? If yes, then please check out my portfolio and contact me via available media links 🔗 listed below. 
