@@ -11,7 +11,7 @@ Would you like to know more about me? If yes, then please check out my portfolio
   
 ## 🔧 Technologies & Tools
 
-![](https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=htm&logoColor=white&color=fe5a1d)
+<!-- ![](https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=htm&logoColor=white&color=fe5a1d)
 ![](https://img.shields.io/badge/Style-CSS-informational?style=flat&logo=css3&logoColor=white&color=fe5a1d)
 ![](https://img.shields.io/badge/Style-Sass-informational?style=flat&logo=Sass&logoColor=white&color=fe5a1d)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&logoColor=white&color=fe5a1d)
@@ -27,7 +27,11 @@ Would you like to know more about me? If yes, then please check out my portfolio
 ![](https://img.shields.io/badge/Tools-NPM-informational?style=flat&logo=npm&logoColor=white&color=fe5a1d)
 ![](https://img.shields.io/badge/Tools-Jira-informational?style=flat&logo=Jira-Software&logoColor=white&color=fe5a1d)
 <br/>
-![](https://img.shields.io/badge/Tools-GitBash-informational?style=flat&logo=GitBash&logoColor=white&color=fe5a1d)
+![](https://img.shields.io/badge/Tools-GitBash-informational?style=flat&logo=GitBash&logoColor=white&color=fe5a1d) -->
+
+
+![](https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=htm&logoColor=white&color=fe5a1d) ![](https://img.shields.io/badge/Style-CSS-informational?style=flat&logo=css3&logoColor=white&color=fe5a1d) ![](https://img.shields.io/badge/Style-Sass-informational?style=flat&logo=Sass&logoColor=white&color=fe5a1d) ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&logoColor=white&color=fe5a1d) ![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=fe5a1d) ![](https://img.shields.io/badge/Code-Redux-informational?style=flat&logo=Redux&logoColor=white&color=fe5a1d) ![](https://img.shields.io/badge/Code-NodeJS-informational?style=flat&logo=nodejs&logoColor=white&color=fe5a1d) ![](https://img.shields.io/badge/Tools-Webpack-informational?style=flat&logo=Webpack&logoColor=white&color=fe5a1d) ![](https://img.shields.io/badge/Tools-Parcel-informational?style=flat&logo=Percel&logoColor=white&color=fe5a1d)
+![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=GitBash&logoColor=white&color=fe5a1d) ![](https://img.shields.io/badge/Tools-AJAX-informational?style=flat&logo=AJAX&logoColor=white&color=fe5a1d) ![](https://img.shields.io/badge/Tools-Handlebars-informational?style=flat&logo=Handlebars&logoColor=white&color=fe5a1d) ![](https://img.shields.io/badge/Tools-Netlify-informational?style=flat&logo=netlify&logoColor=white&color=fe5a1d) ![](https://img.shields.io/badge/Tools-NPM-informational?style=flat&logo=npm&logoColor=white&color=fe5a1d) ![](https://img.shields.io/badge/Tools-Jira-informational?style=flat&logo=Jira-Software&logoColor=white&color=fe5a1d) 
 
 ## &#x1f4c8; GitHub Statistics
 
