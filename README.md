@@ -1,4 +1,6 @@
-[![Header](https://raw.githubusercontent.com/Yana-Filippova/Yana-Filippova/master/readme_header.png "Header")]
+<!-- [![Header](https://github.com/Yana-Filippova/Yana-Filippova/blob/main/readme_header.png.png"Header")]  -->
+<!-- 
+<img align="center" alt="" src="https://github.com/Yana-Filippova/Yana-Filippova/blob/main/readme_header.png.png" width="900px" height="150px"/> -->
 
 ## Hi guys👋! My name's Yana 👧 and I'm a Full Stack Developer.                
 <i>Web-development is an incredibly creative discipline and I'm passionate about everything related to it 💻 .
