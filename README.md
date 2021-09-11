@@ -1,4 +1,4 @@
-<img align="center" alt="header" src="https://github.com/Yana-Filippova/Yana-Filippova/blob/main/header.jpg" width="295"/>
+<img align="center" alt="header" src="https://github.com/Yana-Filippova/Yana-Filippova/blob/main/header.jpg" width="995"/>
 
 ## Hi guys👋! My name's Yana and I'm a Full Stack Developer 👩‍💻.                
 <i>Web-development 👍 is an incredibly creative discipline and I'm passionate about everything related to it.
