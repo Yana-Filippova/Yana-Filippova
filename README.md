@@ -23,7 +23,7 @@ Would you like to know more about me? If yes, then please check out my portfolio
 ![](https://img.shields.io/badge/Tools-Handlebars.js-informational?style=flat&logo=Handlebars.js&logoColor=white&color=fe5a1d)
 ![](https://img.shields.io/badge/Tools-Material%20UI-informational?style=flat&logo=Material%20UI&logoColor=white&color=fe5a1d) 
 ![](https://img.shields.io/badge/Tools-Figma-informational?style=flat&logo=Figma&logoColor=white&color=fe5a1d)
-![](https://img.shields.io/badge/Tools-Git%20Bash-informational?style=flat&logo=Git%20Bash&logoColor=white&color=fe5a1d) 
+![](https://img.shields.io/badge/Tools-GitBash-informational?style=flat&logo=GitBash&logoColor=white&color=fe5a1d) 
 ![](https://img.shields.io/badge/Tools-Jira-informational?style=flat&logo=JiraSoftware&logoColor=white&color=fe5a1d) 
 ![](https://img.shields.io/badge/Tools-VSC-informational?style=flat&logo=Visual%20Studio%20Code&logoColor=white&color=fe5a1d) 
 ![](https://img.shields.io/badge/Tools-Ajax-informational?style=flat&logo=Ajax&logoColor=white&color=fe5a1d) 
