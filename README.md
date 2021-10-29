@@ -36,11 +36,10 @@ Would you like to know more about me? If yes, then please check out my portfolio
 ![](https://img.shields.io/badge/Tools-Netlify-informational?style=flat&logo=netlify&logoColor=white&color=fe5a1d)
 ![](https://img.shields.io/badge/Code-Socket.io-informational?style=flat&logo=Socket.io&logoColor=white&color=fe5a1d) 
 ![](https://img.shields.io/badge/Code-DBeaver-informational?style=flat&logo=DBeaver&logoColor=white&color=fe5a1d) 
-![](https://img.shields.io/badge/Tools-Ajax-informational?style=flat&logo=Ajax&logoColor=white&color=fe5a1d) 
+<!-- ![](https://img.shields.io/badge/Tools-Ajax-informational?style=flat&logo=Ajax&logoColor=white&color=fe5a1d)  -->
 ![](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=TypeScript&logoColor=white&color=fe5a1d) 
-
-<!-- ![](https://img.shields.io/badge/Tools-Agile-informational?style=flat&logo=Agile&logoColor=white&color=fe5a1d) 
-![](https://img.shields.io/badge/Tools-Scrum-informational?style=flat&logo=Scrum&logoColor=white&color=fe5a1d)  -->
+![](https://img.shields.io/badge/Tools-Agile-informational?style=flat&logo=Agile&logoColor=white&color=fe5a1d) 
+![](https://img.shields.io/badge/Tools-Scrum-informational?style=flat&logo=Scrum&logoColor=white&color=fe5a1d) 
 
 ## &#x1f4c8; GitHub Statistics
 
