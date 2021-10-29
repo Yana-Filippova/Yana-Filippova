@@ -39,6 +39,7 @@ Would you like to know more about me? If yes, then please check out my portfolio
 ![](https://img.shields.io/badge/Tools-Handlebars.js-informational?style=flat&logo=Handlebars.js&logoColor=white&color=fe5a1d)
 ![](https://img.shields.io/badge/Tools-Netlify-informational?style=flat&logo=netlify&logoColor=white&color=fe5a1d) 
 ![](https://img.shields.io/badge/Tools-Heroku-informational?style=flat&logo=heroku&logoColor=white&color=fe5a1d) 
+![](https://img.shields.io/badge/Tools-Trello-informational?style=flat&logo=trello&logoColor=white&color=fe5a1d) 
 <!-- ![](https://img.shields.io/badge/Tools-Ajax-informational?style=flat&logo=Ajax&logoColor=white&color=fe5a1d)  -->
 <!-- ![](https://img.shields.io/badge/Tools-Agile-informational?style=flat&logo=Agile&logoColor=white&color=fe5a1d) 
 ![](https://img.shields.io/badge/Tools-Scrum-informational?style=flat&logo=Scrum&logoColor=white&color=fe5a1d)  -->
