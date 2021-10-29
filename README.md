@@ -26,7 +26,7 @@ Would you like to know more about me? If yes, then please check out my portfolio
 ![](https://img.shields.io/badge/Tools-Git%20Bash-informational?style=flat&logo=Git%20Bash&logoColor=white&color=fe5a1d) 
 ![](https://img.shields.io/badge/Tools-Jira-informational?style=flat&logo=JiraSoftware&logoColor=white&color=fe5a1d) 
 ![](https://img.shields.io/badge/Tools-VSC-informational?style=flat&logo=Visual%20Studio%20Code&logoColor=white&color=fe5a1d) 
-![](https://img.shields.io/badge/Tools-AJAX-informational?style=flat&logo=AJAX&logoColor=white&color=fe5a1d) 
+![](https://img.shields.io/badge/Tools-Ajax-informational?style=flat&logo=Ajax&logoColor=white&color=fe5a1d) 
 ![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=Git&logoColor=white&color=fe5a1d) 
 ![](https://img.shields.io/badge/Tools-NPM-informational?style=flat&logo=npm&logoColor=white&color=fe5a1d) 
 ![](https://img.shields.io/badge/Tools-Netlify-informational?style=flat&logo=netlify&logoColor=white&color=fe5a1d)
