@@ -39,8 +39,8 @@ Would you like to know more about me? If yes, then please check out my portfolio
 ![](https://img.shields.io/badge/Tools-NPM-informational?style=flat&logo=npm&logoColor=white&color=fe5a1d)
 ![](https://img.shields.io/badge/Tools-Netlify-informational?style=flat&logo=netlify&logoColor=white&color=fe5a1d) 
 <!-- ![](https://img.shields.io/badge/Tools-Ajax-informational?style=flat&logo=Ajax&logoColor=white&color=fe5a1d)  -->
-![](https://img.shields.io/badge/Tools-Agile-informational?style=flat&logo=Agile&logoColor=white&color=fe5a1d) 
-![](https://img.shields.io/badge/Tools-Scrum-informational?style=flat&logo=Scrum&logoColor=white&color=fe5a1d) 
+<!-- ![](https://img.shields.io/badge/Tools-Agile-informational?style=flat&logo=Agile&logoColor=white&color=fe5a1d) 
+![](https://img.shields.io/badge/Tools-Scrum-informational?style=flat&logo=Scrum&logoColor=white&color=fe5a1d)  -->
 
 ## &#x1f4c8; GitHub Statistics
 
