@@ -30,12 +30,12 @@ Would you like to know more about me? If yes, then please check out my portfolio
 ![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=Git&logoColor=white&color=fe5a1d) 
 ![](https://img.shields.io/badge/Tools-NPM-informational?style=flat&logo=npm&logoColor=white&color=fe5a1d)
 ![](https://img.shields.io/badge/Code-MongoDB-informational?style=flat&logo=MongoDB&logoColor=white&color=fe5a1d)
+![](https://img.shields.io/badge/Code-Mongoose-informational?style=flat&logo=Mongoose&logoColor=white&color=fe5a1d)
 ![](https://img.shields.io/badge/Code-Express-informational?style=flat&logo=Express&logoColor=white&color=fe5a1d)
 ![](https://img.shields.io/badge/Code-Docker-informational?style=flat&logo=Docker&logoColor=white&color=fe5a1d)
 ![](https://img.shields.io/badge/Tools-Netlify-informational?style=flat&logo=netlify&logoColor=white&color=fe5a1d)
 ![](https://img.shields.io/badge/Code-Socket.io-informational?style=flat&logo=Socket.io&logoColor=white&color=fe5a1d) 
 ![](https://img.shields.io/badge/Code-DBeaver-informational?style=flat&logo=DBeaver&logoColor=white&color=fe5a1d) 
-![](https://img.shields.io/badge/Code-Mongoose-informational?style=flat&logo=Mongoose&logoColor=white&color=fe5a1d) 
 ![](https://img.shields.io/badge/Tools-Ajax-informational?style=flat&logo=Ajax&logoColor=white&color=fe5a1d) 
 ![](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=TypeScript&logoColor=white&color=fe5a1d) 
 
